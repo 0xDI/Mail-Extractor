@@ -15,4 +15,4 @@ Also Adjust any prefered niches and email types.
 python mail-automation.py
 ```
 
-# 🛑 This is created for personal use & is not meant to be sold.
+# 🛑 This is created for personal use & is not meant to be sold. Credits to [EvolveFrame](https://evolvefra.me)
